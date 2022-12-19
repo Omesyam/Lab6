@@ -10,7 +10,7 @@ double useFormula1(int x, int y, int z)
     else
     {
         cout << "Не є ОДЗ!";
-        return 0;
+        return rez; //зміна коду
     }
 
 }
