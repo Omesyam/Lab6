@@ -9,15 +9,15 @@ int main()
 {
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
-    int x, b, c, a, F;
+    int x, b, c, d, F;
     cout << "Введіть x:";
     cin >> x;
     cout << "Введіть b:";
     cin >> b;
     cout << "Введіть c:";
     cin >> c;
-    cout << "Введіть a:";
-    cin >> a;
+    cout << "Введіть d:";
+    cin >> d;
     if (x + 5 < 0 && c == 0) {
         F = (1 / a * x) - b;
         }
